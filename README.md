@@ -79,7 +79,8 @@ Outlier detection (boxplot)
 
 ✅ 7. Mini Dashboard (4-Plot Grid)
 A compact financial dashboard including:
-[file:///D:/C%20DRIVE%20PART/Downloads/STOCK%20MARKET%20ANALYSIS.html]
+[STOCK MARKET ANALYSIS.pdf](https://github.com/user-attachments/files/23838405/STOCK.MARKET.ANALYSIS.pdf)
+
 1. Closing Price
 2. MA20 vs MA50
 3. Daily Return Histogram
